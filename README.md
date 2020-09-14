@@ -17,8 +17,19 @@
 2.Result
 --------
 
+### 2.1 noisy.png
 
-<img src="/image/noisy.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="noisy.png"></img><br/>
-<img src="/image/Model1.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="model1.png"></img><br/>
-<img src="/image/Model2.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="model2.png"></img><br/>
-<img src="/image/Model3.png" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="model3.png"></img><br/>
+<img src="/image/noisy.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="noisy.png"></img><br/>
+
+### 2.2 model1.png
+
+<img src="/image/Model1.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="model1.png"></img><br/>
+
+### 2.3 model2.png
+
+<img src="/image/Model2.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="model2.png"></img><br/>
+
+### 2.4 model3.png
+
+<img src="/image/Model3.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="model3.png"></img><br/>
+
